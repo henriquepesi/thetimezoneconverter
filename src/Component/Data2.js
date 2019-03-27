@@ -50,11 +50,16 @@ class Data2 extends Component {
   
       return (
         <div>
+         
             <label className="control">
+            {this.state.value === '' ? 
+              <input className="input is-info" type="text" name="" value="Select a state" />
+                : 
                 <input className="input is-info" type="text" name="" value={this.state.items.formatted.slice(10 , 16, 18)} 
             />
-                
+          }
             </label>
+          
 
             <div className="control">
                 <div className="select is-fullwidth is-info">
