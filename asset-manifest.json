@@ -1,15 +1,15 @@
 {
-  "main.css": "/timezoneconverter/static/css/main.95004a23.chunk.css",
-  "main.js": "/timezoneconverter/static/js/main.2e03bb27.chunk.js",
-  "main.js.map": "/timezoneconverter/static/js/main.2e03bb27.chunk.js.map",
-  "runtime~main.js": "/timezoneconverter/static/js/runtime~main.7fedd844.js",
-  "runtime~main.js.map": "/timezoneconverter/static/js/runtime~main.7fedd844.js.map",
-  "static/css/2.dd45ee55.chunk.css": "/timezoneconverter/static/css/2.dd45ee55.chunk.css",
-  "static/js/2.6400f066.chunk.js": "/timezoneconverter/static/js/2.6400f066.chunk.js",
-  "static/js/2.6400f066.chunk.js.map": "/timezoneconverter/static/js/2.6400f066.chunk.js.map",
-  "index.html": "/timezoneconverter/index.html",
-  "precache-manifest.05ba651ed1fe68b7edd9e7a928f2964d.js": "/timezoneconverter/precache-manifest.05ba651ed1fe68b7edd9e7a928f2964d.js",
-  "service-worker.js": "/timezoneconverter/service-worker.js",
-  "static/css/2.dd45ee55.chunk.css.map": "/timezoneconverter/static/css/2.dd45ee55.chunk.css.map",
-  "static/css/main.95004a23.chunk.css.map": "/timezoneconverter/static/css/main.95004a23.chunk.css.map"
+  "main.css": "/thetimezoneconverter/static/css/main.95004a23.chunk.css",
+  "main.js": "/thetimezoneconverter/static/js/main.9d4abce2.chunk.js",
+  "main.js.map": "/thetimezoneconverter/static/js/main.9d4abce2.chunk.js.map",
+  "runtime~main.js": "/thetimezoneconverter/static/js/runtime~main.83ad66b9.js",
+  "runtime~main.js.map": "/thetimezoneconverter/static/js/runtime~main.83ad66b9.js.map",
+  "static/css/2.dd45ee55.chunk.css": "/thetimezoneconverter/static/css/2.dd45ee55.chunk.css",
+  "static/js/2.6400f066.chunk.js": "/thetimezoneconverter/static/js/2.6400f066.chunk.js",
+  "static/js/2.6400f066.chunk.js.map": "/thetimezoneconverter/static/js/2.6400f066.chunk.js.map",
+  "index.html": "/thetimezoneconverter/index.html",
+  "precache-manifest.d991b355731b59230bd5cc3611264f30.js": "/thetimezoneconverter/precache-manifest.d991b355731b59230bd5cc3611264f30.js",
+  "service-worker.js": "/thetimezoneconverter/service-worker.js",
+  "static/css/2.dd45ee55.chunk.css.map": "/thetimezoneconverter/static/css/2.dd45ee55.chunk.css.map",
+  "static/css/main.95004a23.chunk.css.map": "/thetimezoneconverter/static/css/main.95004a23.chunk.css.map"
 }

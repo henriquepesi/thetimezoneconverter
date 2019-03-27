@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/timezoneconverter/precache-manifest.05ba651ed1fe68b7edd9e7a928f2964d.js"
+  "/thetimezoneconverter/precache-manifest.d991b355731b59230bd5cc3611264f30.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/timezoneconverter/index.html", {
+workbox.routing.registerNavigationRoute("/thetimezoneconverter/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
