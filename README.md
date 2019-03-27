@@ -1,5 +1,5 @@
 ### `The App`
-The app can be accessed by the link: https://henriquepesi.github.io/timezoneconverter
+The app can be accessed by the link: https://henriquepesi.github.io/thetimezoneconverter/
 
 ## Available Scripts
 
